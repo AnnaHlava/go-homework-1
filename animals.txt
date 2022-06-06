@@ -1,0 +1,4 @@
+cat Fanya 
+dog Lima 
+squirrel Scrat
+pig Peppa
